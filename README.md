@@ -1,13 +1,17 @@
 # Web Desenvolvedora
 
-**Flávia Mariana**
 
-![Tech Stack](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Tech Stack](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tech Stack](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tech Stack](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Tech Stack](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Tech Stack](https://img.shields.io/badge/-Alpine.js-8BC0D0?style=flat&logo=alpine.js&logoColor=black)
+
+     
+<p align="left">
+  <strong>🌐 Flávia Mariana →</strong><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" alt="Alpine.js" width="40"/>
+</p>
 
 
 📧 flavia.git.00.com
@@ -22,26 +26,29 @@
 
 ## 📌 Sobre mim
 
-- 🎓 Formada em desenvolvimento de sistemas pelo SENAI
-- 💙 Apaixonada por tecnologia 
-- ✍️ atualmente montando meu porfólio profissinal.
-- 🧠 Hobbies: Programar, Academia, e ouvir músicas
-- 🖥️ 3 projetos concluidos utilizando tecnologias web.
+- 🎓 Formada em desenvolvimento de sistemas pelo SENAI.
+- 💙 Apaixonada por tecnologia. 
+- 📖 atualmente montando meu porfólio profissinal.
+- 💕 Hobbies: Programar, Academia, e ouvir músicas.
+- 💼 3 projetos concluidos utilizando tecnologias web.
+---
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub" /> GitHub Estatísticas
+
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" alt="Top Langs">
+    </td>
+    <td width="50"></td> <!-- Espaço entre as imagens -->
+    <td align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="GitHub stats">
+    </td>
+  </tr>
+</table>
+
+
+
 ---
 
-## 📊 GitHub estatisticas
-
-| Stats                  | Value     |
-|------------------------|-----------|
-| ⭐ Total Stars          | 171       |
-| 🔀 Total PRs (2024)     | 16        |
-| 🔧 Total Issues         | 105       |
-| ⬆️ Contributed to (last year) | 3         |
-
-**Total Contributions**: 2,764  
-**Current Streak**: 0  
-**Longest Streak**: 119 days
-
----
-
-@jfmartinz's Holopin badges
