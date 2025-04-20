@@ -20,7 +20,7 @@
 
 ---
 
-## 📖 Sobre mim
+## 📌 Sobre mim
 
 - 🎓 Formada em desenvolvimento de sistemas pelo SENAI
 - 💙 Apaixonada por tecnologia 
