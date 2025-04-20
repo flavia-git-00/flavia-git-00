@@ -26,7 +26,7 @@
 - 💙 Apaixonada por tecnologia 
 - ✍️ atualmente montando meu porfólio profissinal.
 - 🧠 Hobbies: Programar, Academia, e ouvir músicas
-- 
+- 🖥️ 3 projetos concluidos utilizando tecnologias web.
 ---
 
 ## 📊 GitHub estatisticas
