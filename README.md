@@ -14,13 +14,13 @@
 
 ---
 
-## 🌐 Connect with me:
+## 🌐 conecte-se comigo:
 - [LinkedIn](www.linkedin.com/in/flávia-mariana-3196a7298)
 
 
 ---
 
-## 📖 About Me
+## 📖 Sobre mim
 
 - 🎓 Formada em desenvolvimento de sistemas pelo SENAI
 - 💙 Apaixonada por tecnologia 
@@ -29,7 +29,7 @@
 - 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub estatisticas
 
 | Stats                  | Value     |
 |------------------------|-----------|
