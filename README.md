@@ -1,18 +1,31 @@
-# Web Desenvolvedora
-<img src="https://raw.githubusercontent.com/flavia-git-00/flavia-git-00/assets/sininhoeu.png"/>
+# Web Desenvolvedora / Flávia Mariana 
 
 
+
+
+
+<table>
+  <tr>
+    <td align="center">
+  
+
+
+# Tecnologias ultilizadas:
 
      
-<p align="left">
-  <strong>🌐 Flávia Mariana →</strong><br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" alt="Alpine.js" width="40"/>
-</p>
+    </td>
+    <td width="50"></td> <!-- Espaço entre as imagens -->
+    <td align="center" valign="middle">
+     <img src="https://raw.githubusercontent.com/flavia-git-00/flavia-git-00/main/assets/sininhoeu.png" height="300px" />
+    </td>
+  </tr>
+</table>
 
 
 📧 flavia.git.00.com
