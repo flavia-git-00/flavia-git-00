@@ -1,63 +1,47 @@
-<h1 align="center">Olá! Eu sou a Flavia Mariana 👋</h1>
+# Web Desenvolvedora
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" />
-</p>
+**Flávia Mariana**
 
-### 🌟 Sobre mim
-- 👩‍💻 Técnica em Desenvolvimento de Sistemas formada pelo SENAI
-- 💡 Apaixonada por tecnologia e programação
-- 🚀 Em busca de novos desafios
+![Tech Stack](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tech Stack](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/-Alpine.js-8BC0D0?style=flat&logo=alpine.js&logoColor=black)
 
----
 
-### 🛠️ Tecnologias que uso:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+📧 flavia.git.00.com
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🌐 Connect with me:
+- [LinkedIn](www.linkedin.com/in/flávia-mariana-3196a7298)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 ---
 
-### 📫 Me encontre por aí:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-usuario)<h1 align="center">Olá! Eu sou a Flavia Mariana 👋</h1>
+## 📖 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" />
-</p>
+- 🎓 Formada em desenvolvimento de sistemas pelo SENAI
+- 💙 Apaixonada por tecnologia 
+- ✍️ atualmente montando meu porfólio profissinal.
+- 🧠 Hobbies: Programar, Academia, e ouvir músicas
+- 
+---
 
-### 🌟 Sobre mim
-- 👩‍💻 Técnica em Desenvolvimento de Sistemas formada pelo SENAI
-- 💡 Apaixonada por tecnologia e programação
-- 🚀 Em busca de novos desafios
+## 📊 GitHub Stats
+
+| Stats                  | Value     |
+|------------------------|-----------|
+| ⭐ Total Stars          | 171       |
+| 🔀 Total PRs (2024)     | 16        |
+| 🔧 Total Issues         | 105       |
+| ⬆️ Contributed to (last year) | 3         |
+
+**Total Contributions**: 2,764  
+**Current Streak**: 0  
+**Longest Streak**: 119 days
 
 ---
 
-### 🛠️ Tecnologias que uso:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
-
-### 📫 Me encontre por aí:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-usuario)
+@jfmartinz's Holopin badges
